@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/people-data/static/css/main.ba702c37.css",
+    "main.js": "/people-data/static/js/main.116e7769.js",
+    "static/js/787.f055211e.chunk.js": "/people-data/static/js/787.f055211e.chunk.js",
+    "index.html": "/people-data/index.html",
+    "main.ba702c37.css.map": "/people-data/static/css/main.ba702c37.css.map",
+    "main.116e7769.js.map": "/people-data/static/js/main.116e7769.js.map",
+    "787.f055211e.chunk.js.map": "/people-data/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba702c37.css",
+    "static/js/main.116e7769.js"
+  ]
+}
